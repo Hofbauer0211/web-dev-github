@@ -1,4 +1,9 @@
 This is my first commit!
 
 ANd here er go with nummmber 2! 
+<<<<<<< HEAD
 tihs is 3
+=======
+
+nummer 5
+>>>>>>> feature
